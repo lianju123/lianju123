@@ -47,7 +47,11 @@
 > 源码仓库保持私有，以下摘要由 GitHub Action 自动同步（每周更新）。
 
 <!-- REPOS:START -->
-> ⟳ 等待 Action 首次运行后填充
+| 仓库 | 内容 | 语言 | 最近更新 |
+| :--- | :--- | :--- | :--- |
+| 🔒 `cv-ai-toolkit` | — | Python | 2026-09-18 |
+| 🔒 `robot-depalletizing-vision` | — | — | 2026-09-18 |
+| 🔒 `sql-ops-scripts` | Initial Commit | — | 2026-09-18 |
 <!-- REPOS:END -->
 
 ---
