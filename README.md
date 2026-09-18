@@ -49,9 +49,9 @@
 <!-- REPOS:START -->
 | 仓库 | 内容 | 语言 | 最近更新 |
 | :--- | :--- | :--- | :--- |
-| 🔒 `cv-ai-toolkit` | — | Python | 2026-09-18 |
-| 🔒 `robot-depalletizing-vision` | — | — | 2026-09-18 |
-| 🔒 `sql-ops-scripts` | Initial Commit | — | 2026-09-18 |
+| 🔒 `cv-ai-toolkit` | 计算机视觉学习集：DINOv3 / DenseNet 分类 / YOLO 检测，按分支组织 | Python | 2026-09-18 |
+| 🔒 `robot-depalletizing-vision` | 机器人拆码垛视觉项目：历史代码归档 | — | 2026-09-18 |
+| 🔒 `sql-ops-scripts` | SQL 运维对账：文档同步与权限一致性校验脚本 | — | 2026-09-18 |
 <!-- REPOS:END -->
 
 ---
