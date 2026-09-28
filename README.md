@@ -49,6 +49,8 @@
 <!-- REPOS:START -->
 | 仓库 | 内容 | 语言 | 最近更新 |
 | :--- | :--- | :--- | :--- |
+| 🔒 `RoboticArm` | MG400 机械臂双链路对接系统：链路2 上位机 Python 通讯库 ArmLink + 链路1 DMS 关车自动化 DMSAutoBridge（含联调工具、协议文档与测试） | JavaScript | 2026-09-28 |
+| 🔒 `wms-robot-scheduler` | WMS(富勒)与机器人之间的中间调度服务：接收任务推送①，转发扫码②/拍灯③/完成④；含任务状态机、并发防护、崩溃自愈与全链路调用留痕 | Python | 2026-09-23 |
 | 🔒 `cv-ai-toolkit` | 计算机视觉学习集：DINOv3 / DenseNet 分类 / YOLO 检测，按分支组织 | Python | 2026-09-18 |
 | 🔒 `robot-depalletizing-vision` | 机器人拆码垛视觉项目：历史代码归档 | — | 2026-09-18 |
 | 🔒 `sql-ops-scripts` | SQL 运维对账：文档同步与权限一致性校验脚本 | — | 2026-09-18 |
